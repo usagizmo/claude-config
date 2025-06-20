@@ -1,1 +1,2 @@
-git diff --cached を確認して、staging の内容をコミットしてください。
+`git diff --cached` を実行して内容を確認して、
+staging の内容のみをコミットしてください。
